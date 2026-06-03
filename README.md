@@ -12,7 +12,7 @@ Projekt został stworzony jako ćwiczenie algorytmiczne i prezentuje wykorzystan
 
 ## Podgląd działania
 
-![Przykład spirali](spirala.jng)
+![Przykład spirali](spirala.png)
 
 ## Przykładowe użycie
 
