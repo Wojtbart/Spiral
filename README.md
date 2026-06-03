@@ -12,7 +12,7 @@ Projekt został stworzony jako ćwiczenie algorytmiczne i prezentuje wykorzystan
 
 ## Podgląd działania
 
-![Przykład spirali](images/spiral.png)
+![Przykład spirali](spirala.jng)
 
 ## Przykładowe użycie
 
@@ -91,17 +91,6 @@ Niepoprawne przykłady:
 * 8
 
 W przypadku podania niepoprawnej wartości zostanie zgłoszony wyjątek.
-
-## Struktura projektu
-
-```text
-RecursiveSpiralGenerator/
-│
-├── Program.cs
-├── README.md
-└── images/
-    └── spiral.png
-```
 
 ## Zastosowane zagadnienia
 
