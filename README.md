@@ -45,31 +45,6 @@ FillSpiral(...)
 
 która wywołuje samą siebie dla kolejnych wewnętrznych warstw macierzy.
 
-## Wymagania
-
-* .NET 6.0 lub nowszy
-* C#
-
-## Uruchomienie projektu
-
-Sklonuj repozytorium:
-
-```bash
-git clone https://github.com/TWOJ_LOGIN/recursive-spiral-generator.git
-```
-
-Przejdź do katalogu projektu:
-
-```bash
-cd recursive-spiral-generator
-```
-
-Uruchom aplikację:
-
-```bash
-dotnet run
-```
-
 ## Ograniczenia danych wejściowych
 
 Program przyjmuje wyłącznie:
